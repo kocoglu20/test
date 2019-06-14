@@ -34,6 +34,7 @@
       <div class="row" style="border: .045em solid #000000; width: 50mm;height: 40mm;position: absolute;left: 70mm; top:80mm;"></div>
       <div class="row" style="border: .055em solid #000000; width: 50mm;height: 40mm;position: absolute;left: 10mm; top:130mm;"></div>
       <div class="row" style="border: .065em solid #000000; width: 50mm;height: 40mm;position: absolute;left: 70mm; top:130mm;"></div>
+      <div class="row" style="border: .065em solid #000000; width: 50mm;height: 40mm;position: absolute;left: 70mm; top:130mm;"></div>
       <h1 class="text-center" style="top: 200mm; position: absolute;width: 100%">footer</h1>
     </div>
   </div>
